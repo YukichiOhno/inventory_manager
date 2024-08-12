@@ -1,6 +1,8 @@
 # input files
 manufacturerlist.csv
+
 pricelist.csv
+
 servicedateslist.csv
 
 # inventory_manager: Purpose
